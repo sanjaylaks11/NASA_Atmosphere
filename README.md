@@ -1,0 +1,7 @@
+# NASA_Atmosphere
+Pressure, Temperature and density model of the atmosphere as per NASA site.
+standard atmosphere model of the variation of properties through the atmosphere, Variations in air properties extend upward from the surface of the Earth. The sun heats the surface of the Earth, and some of this heat goes into warming the air near the surface. The heated air is then diffused or convected up through the atmosphere. Thus the air temperature is highest near the surface and decreases as altitude increases. The speed of sound depends on the temperature and also decreases with increasing altitude. The pressure of the air can be related to the weight of the air over a given location. As we increase altitude through the atmosphere, there is some air below us and some air above us. But there is always less air above us than was present at a lower altitude. Therefore, air pressure decreases as we increase altitude. The air density depends on both the temperature and the pressure through the equation of state and also decreases with increasing altitude.
+As found in : - 
+https://www.grc.nasa.gov/www/k-12/rocket/atmosmet.html
+Cite As
+sanjay lakshminarayana (2021). Standard atmosphere model of the variation of properties (https://www.mathworks.com/matlabcentral/fileexchange/99899-standard-atmosphere-model-of-the-variation-of-properties), MATLAB Central File Exchange. Retrieved October 15, 2021.
